@@ -1,0 +1,67 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #62959e;
+}
+
+h1 {  
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #273f5f;
+  font-size: 8rem;
+  color: #bfe7c9;
+}
+
+p {
+  font-size: 2rem;
+  color: #2f2f5e;
+  font-family: 'Yomogi', cursive;;
+}
+
+.gameDesc{
+  font-size: 1.2rem;
+  text-align: left;
+  
+  color: #bfe7c9;
+}
+img {
+  width: 80%;
+}
+
+.btn-para{
+  font-size: 1rem;
+}
+
+.result{
+  margin: 30px;
+  font-family: 'Yomogi', cursive;
+  font-size: 3rem;
+  color: #bfe7c9;
+}
+
+.roll-btn{
+  padding: 1rem;
+  font-size: 2rem;
+  margin: 1rem;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px #819c88;
+  background-color: #bfe7c9;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Yomogi', cursive;;
+
+}
